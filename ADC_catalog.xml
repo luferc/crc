@@ -1,0 +1,125 @@
+<CATALOG>
+<ADC>
+<DRIVER>Driver 1A</DRIVER>
+<TOTAL_NODOS>[15]</TOTAL_NODOS>
+<A1>Los Tules</A1>
+<A2>Campo Verde</A2>
+<A3>Ixtapa Diego Rivera/Pelicano</A3>
+<A4>Villas Del Rio</A4>
+<A5>Ojo de Agua</A5>
+<A6>Rincon Del Cielo</A6>
+<A7>Gaviotas</A7>
+<A8>Infonavit CTM</A8>
+<A9>San Juan 1</A9>
+<A10>San Juan 2</A10>
+<A11>Infonavit San Jose</A11>
+<A12>Conchas Chinas</A12>
+<A13>San Esteban</A13>
+<A14>Fovisste</A14>
+<A15>Guadalupe Victoria</A15>
+</ADC>
+<ADC>
+<DRIVER>Driver 1B</DRIVER>
+<TOTAL_NODOS>[16]</TOTAL_NODOS>
+<B1>Versalles</B1>
+<B2>Santa María</B2>
+<B3>Centro Historico</B3>
+<B4>Sheraton</B4>
+<B5>Lopez Mateos</B5>
+<B6>EMiliano Zapata</B6>
+<B7>Peninsula</B7>
+<B8>Aramara</B8>
+<B9>Isla Iguana</B9>
+<B10>MArina Vallarta 1</B10>
+<B11>Vallarta 500</B11>
+<B12>Los Portales</B12>
+<B13>Sauces</B13>
+<B14>NO IDENTIFICADO</B14>
+<B15>Lazaro Cardenas</B15>
+<B16>San Jose Del Valle</B16>
+</ADC>
+<ADC>
+<DRIVER>Driver 1C</DRIVER>
+<TOTAL_NODOS>[12]</TOTAL_NODOS>
+<C1>La Marina</C1>
+<C2>Marina Westing</C2>
+<C3>Ixtapa (Aguacate-Allende-VicenteGuerrero)</C3>
+<C4>Arboledas</C4>
+<C5>Jarretaderas</C5>
+<C6>Villa Las Flores</C6>
+<C7>La Floresta 1</C7>
+<C8>La Aurora 2</C8>
+<C9>Hotel Presidente</C9>
+<C10>Bucerias 1</C10>
+<C11>La Aurora 1</C11>
+<C12>Costa Sur</C12>
+</ADC>
+<ADC>
+<DRIVER>Driver 1D</DRIVER>
+<TOTAL_NODOS>[14]</TOTAL_NODOS>
+<D1>Las Juntas</D1>
+<D2>Parque Las Palmas</D2>
+<D3>Vallarta 750</D3>
+<D4>Valle De Banderas</D4>
+<D5>NO IDENTIFICADO</D5>
+<D6>Hotel Presidente</D6>
+<D7>Bobadilla</D7>
+<D8>Mangos</D8>
+<D9>Abedul</D9>
+<D10>Marina Caracoles</D10>
+<D11>5 De Diciembre</D11>
+<D12>Pitillal Centro</D12>
+<D13>Coapinole</D13>
+<D14>Ramblases</D14>
+</ADC>
+<ADC>
+<DRIVER>Driver 2A</DRIVER>
+<TOTAL_NODOS>[LIBRE]</TOTAL_NODOS>
+<A1></A1>
+<A2></A2>
+<A3></A3>
+<A4></A4>
+<A5></A5>
+<A6></A6>
+<A7></A7>
+<A8></A8>
+</ADC>
+<ADC>
+<DRIVER>Driver 2B</DRIVER>
+<TOTAL_NODOS>[06]</TOTAL_NODOS>
+<B1>Marival</B1>
+<B2>La Floresta 2</B2>
+<B3>Bosques Del Progreso 1,2,3</B3>
+<B4>Cruz De Hunacaxtle</B4>
+<B5>Las Ceibas</B5>
+<B6>NO IDENTIFICADO</B6>
+</ADC>
+<ADC>
+<DRIVER>Driver 2C</DRIVER>
+<TOTAL_NODOS>[08]</TOTAL_NODOS>
+<C1>Bucerias 2</C1>
+<C2>San Vicente</C2>
+<C3>Lomas De Hunacaxtle</C3>
+<C4>Mezcales</C4>
+<C5></C5>
+<C6>San Jose Del Valle</C6>
+<C7>Caloso</C7>
+<C8>Brisas Del Pacifico 1,2,3</C8>
+</ADC>
+<ADC>
+<DRIVER>Driver 2D</DRIVER>
+<TOTAL_NODOS>[06]</TOTAL_NODOS>
+<D1>Mojoneras</D1>
+<D2>Sendero De Luna</D2>
+<D3>Costa Coral</D3>
+<D4>Valle Dorado 1</D4>
+<D5>Valle Dorado 2</D5>
+<D6>Mayan Palace</D6>
+</ADC>
+<ADC>
+<DRIVER>Driver 3A</DRIVER>
+<TOTAL_NODOS>[01]</TOTAL_NODOS>
+<A1>Jardines Del Sol 1,2</A1>
+</ADC>
+</CATALOG>
+

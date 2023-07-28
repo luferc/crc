@@ -1,0 +1,22 @@
+A diferencia de otros chats, PHPWebChat funciona talemnte como un chat IRC, pues solo se muestran los mensajes a partir del momento de la conexion y los mensajes se añaden sin refrescar la ventana de chat.
+
+Esto se consigue con dos frames ocultos que realizan una comunicacion con el servidor, cada uno en un sentido, utilizando los mínimos recursos, pues solo se envían los mensajes una vez no como en otros chats en PHP.
+
+Estos són los comandos IRC que soporta de momento PHPWebChat:
+
+    /clear - Borra la pantalla de mensajes
+    /login nombre - Conecta el usuario nombre al sistema
+    /logout [mensaje] - Desconecta el usuario
+    /names - Muestra la lista de usuarios del chat
+    /kick nombre contraseña - Si proporcionamos la contraseña de configuracion.php, desconecta al usuario nombre del chat
+    /msg nombre mensaje - Envía el mensaje a nombre
+    /help [comando] - Muestra la lista de comandos activos
+    /time - Muestra la hora del servidor del chat
+    /whois nombre - Detalla la informacion de nombre
+    /smilies - Muestra la lista de todos los smilies disponibles
+
+La instalacion del chat es muy sencilla, basta con descomprimir el archivo zip, configurar configurar.php y subir todos los archivos a nuestro servidor.
+
+Entonces entraremos a index.php y al enviar cualquier mensaje nos preguntará si queremos crear las tablas automáticamente, si aceptamos ya podremos empezar a usar nuestro nuevo chat.
+
+Sin mas, podeis descargar los archivos comprimidos en zip. 
